@@ -4,7 +4,7 @@ I'm a senior software engineer on the AI platform team at [Virta Health](https:/
 
 **Things I've built on my own time**
 
-- [Torch](https://github.com/juliansunn/torch-releases): multisport training app (Mac, iOS, Android) that drives a Wahoo KICKR over Bluetooth and syncs with Strava and intervals.icu
+- [Torch](https://github.com/juliansunn/torch-releases): training app for Mac and iPhone (Tauri 2 + Rust) with native Bluetooth control of a Wahoo KICKR, an AI coach, and Strava and Garmin sync
 - [Metabolism Simulator](https://metabolism-simulator.vercel.app): interactive model of how food, exercise, sleep and stress shape metabolism, from minutes to years
 - [Antefy](https://github.com/juliansunn/antefy): a cleaner Spotify library and player for web and mobile
 - [Claude Usage](https://github.com/juliansunn/claude-usage): local dashboard for Claude Code usage and API-equivalent cost
